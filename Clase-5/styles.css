@@ -1,0 +1,32 @@
+* {
+    font-family: 'Noto Sans JP', sans-serif;
+}
+h1 {
+    color: aliceblue;
+}
+body{
+    background-color: black;
+}
+input: :focus{
+
+}
+
+.contenedor {
+    background-color: aqua;
+    width: 500px;
+    height: 300px;
+    font-size: 0%;
+}
+
+.div-1 {
+    background-color: blue;
+    width: 200px;
+    height: 100px;
+    display: inline-block;
+}
+.div-2 {
+    background-color: brown;
+    width: 200px;
+    height: 100px;
+    display:inline-block;
+}
